@@ -1,1 +1,1 @@
-# calculator
+# Prototype calculator implementation
